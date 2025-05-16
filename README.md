@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholaus, an <a href="linkedin.com/in/pricenicholaus">AI and Gameplay Programmer</a></h1>
+<h1>Hi, I'm Nicholaus, an <a href="linkedin.com/in/pricenicholaus">Unreal Engine Programmer</a></h1>
 
 <h2> Game Programming Projects:</h2>
 
